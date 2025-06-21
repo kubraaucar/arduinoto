@@ -45,3 +45,9 @@ Bu Arduino projesi, Bluetooth üzerinden dışarıdan kontrol edilebilen bir sis
 2. Gerekli bağlantıları yapın (TX-RX, VCC, GND)
 3. Arduino kartınıza uygun portu seçip kodu yükleyin
 4. Bluetooth bağlantısı kurarak seri komutlar gönderin
+
+
+
+##
+![WhatsApp Image 2025-06-21 at 23 34 51](https://github.com/user-attachments/assets/a55ad736-bd4b-467c-b14a-10750aef6373)
+
